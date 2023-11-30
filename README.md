@@ -1,4 +1,4 @@
-### Hi there 👋 I am Vijay Pagar
+### Hi 👋 I'm Vijay Pagar
 
 <!--
 **VijayPagar/VijayPagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
