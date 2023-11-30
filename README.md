@@ -17,7 +17,7 @@ Feel free to connect with me on LinkedIn from here --> www.linkedin.com/in/vijay
 
 I'm always open to interesting conversations and collaborations.
 
-Thanks for visiting my GitHub profile! 😊
+**Thanks for visiting my GitHub profile! 😊**
 
 <!--
 **VijayPagar/VijayPagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
