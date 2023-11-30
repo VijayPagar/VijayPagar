@@ -11,6 +11,14 @@ Hello! 👋 I'm Vijay Pagar, a passionate software developer with a love for cod
 - **Languages:**  HTML , CSS , JavaScript , Java , Python , C++ 
 - **Tools & Technologies:** PowerBI , Ms Excel , Ms Word , Ms PowerPoint
 - **Database:** SQL
+### 🚀 Let's Connect
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/vijay-pagar-18a894214
+
+) .
+I'm always open to interesting conversations and collaborations.
+
+Thanks for visiting my GitHub profile! 😊
 
 <!--
 **VijayPagar/VijayPagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
