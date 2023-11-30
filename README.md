@@ -1,6 +1,11 @@
 ## Hello ! 👋 I'm Vijay Pagar
 ### About Me
 Hello! 👋 I'm Vijay Pagar, a passionate software developer with a love for coding and creating innovative solutions.
+- 🔭 I’m currently working on [Current Project/Job].
+- 🌱 I’m currently learning [What you're learning].
+- 👯 I’m looking to collaborate on [Open Source Projects].
+- 💬 Ask me about [Anything you're knowledgeable about].
+- 📫 How to reach me: [YourEmail@example.com].
 
 <!--
 **VijayPagar/VijayPagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
