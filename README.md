@@ -6,6 +6,11 @@ Hello! 👋 I'm Vijay Pagar, a passionate software developer with a love for cod
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: E-mail :- vijaypagar222@gmail.com
                       LinkedIn :-www.linkedin.com/in/vijay-pagar-18a894214
+### My Skills
+
+- **Languages:**  HTML , CSS , JavaScript , Java , Python , C++ 
+- **Tools & Technologies:** PowerBI , Ms Excel , Ms Word , Ms PowerPoint
+- **Database:** SQL
 
 <!--
 **VijayPagar/VijayPagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
