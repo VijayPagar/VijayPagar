@@ -1,4 +1,4 @@
-![image](https://github.com/VijayPagar/VijayPagar/assets/99876842/384bd15a-e9d6-40b2-a4f5-e3cfc63a1959)## Hello ! 👋 I'm Vijay Pagar
+## Hello ! 👋 I'm Vijay Pagar
 ### About Me
 Hello! 👋 I'm Vijay Pagar, a passionate software developer with a love for coding and creating innovative solutions.
 - 🔭 I’m currently working on Git and GitHub projects along with development projects.
