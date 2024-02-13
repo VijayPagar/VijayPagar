@@ -1,8 +1,8 @@
 ## Hello ! 👋 I'm Vijay Pagar
 ### About Me
 Hello! 👋 I'm Vijay Pagar, a passionate software developer with a love for coding and creating innovative solutions.
-- 🔭 I’m currently working on Git and GitHub projects along with development projects.
-- 🌱 I’m currently learning  Full stack java development program 
+- 🔭 I’m currently working on React Js along with MERN stack projects.
+- 🌱 I’m currently learning MERN stack development  
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: E-mail :- vijaypagar222@gmail.com
                       LinkedIn :-www.linkedin.com/in/vijay-pagar-18a894214
